@@ -17,10 +17,10 @@
 pip install -r requirements.txt
 ```
 
-运行脚本：
+运行code文件下的weather.py脚本：
 
 ```bash
-python zfinally.py
+python weather.py
 ```
 
 输入中文省份名称，脚本会自动获取天气数据并保存到天气数据文件夹。
