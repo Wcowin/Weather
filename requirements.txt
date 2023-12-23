@@ -1,0 +1,5 @@
+lxml
+pypinyin
+pandas
+tkinter
+openpyxl
